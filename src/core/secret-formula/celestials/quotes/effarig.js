@@ -2,12 +2,13 @@ export const effarigQuotes = {
   initial: {
     id: 0,
     lines: [
-      "Welcome to my humble abode.",
-      "I am Effarig, and I govern Glyphs.",
-      "I am different from Teresa; not as simplistic as you think.",
-      "I use the shards of Glyphs to enforce my will.",
-      "I collect them for the bounty of this realm.",
-      "What are you waiting for? Get started.",
+      "This prison... to hold ME??",
+      "A visitor? Hmm... Indeed, I have slept long enough.",
+      "The kingdom of Pelle has long since forgotten my name, and I am EAGER to make them remember..",
+      "However, the blood of Teresa stains your hands, and I must admit, I'm curious about your skills, Destroyer.",
+      "And so, before I tear down the galaxies and CRUSH the hordes of replicanti...",
+      "You shall do as an appetizer.",
+      "Come forth, child of Pelle... and DIE!",
     ]
   },
   unlockWeights: {

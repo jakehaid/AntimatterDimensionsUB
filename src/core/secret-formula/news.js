@@ -137,11 +137,13 @@ export const news = [
   {
     id: "a29",
     text: `If you are not playing on Kongregate, Steam, or https://ivark.github.io/AntimatterDimensions/,
-      the site is bootleg.`
+      the site is bootleg. Yes, I know, this site is modded! There's no drastic gameplay changes, but 
+      I made a couple cosmetic changes and unblocked it from my current school's wifi. If you want the 
+      REAL AD experience, please go to https://ivark.github.io/AntimatterDimensions/!!`
   },
   {
     id: "a30",
-    text: "Rate 5 on Kongregate so more people can experience this 5 star rating."
+    text: "\"ohhh wait i might have been Stupid™ and only forked the master branch\" -hydrazine"
   },
   {
     id: "a31",
@@ -153,15 +155,15 @@ export const news = [
   },
   {
     id: "a33",
-    text: `"I hate myself." -Boo-chan`
+    text: `"I think Clyde is really homophobic guys" -Scyph`
   },
   {
     id: "a34",
-    text: `"Gee golly" -Xandawesome`
+    text: `"We get it ur ace go f*ck people over in blackjack" -Scyph`
   },
   {
     id: "a35",
-    text: "Above us, there is nothing above, but the stars, above."
+    text: "shimmy shimmy yae shimmy ya (drank) swallalalaa"
   },
   {
     id: "a36",
@@ -177,7 +179,7 @@ export const news = [
   },
   {
     id: "a39",
-    text: "I clicked too fast... my PC is now dematerialised."
+    text: "In good news this week, Hatsune Miku HAS been added to Fortnite!"
   },
   {
     id: "a40",
@@ -189,7 +191,7 @@ export const news = [
   {
     id: "a41",
     text:
-      "There must always be an equal amount of matter as compared to antimatter; I guess your mom balances that a bit."
+      "There must always be an equal amount of matter as compared to antimatter; I guess Caseoh balances that a bit."
   },
   {
     id: "a42",
@@ -213,7 +215,7 @@ export const news = [
   },
   {
     id: "a47",
-    text: "If you put infinity into your calculator, it will result in 42!"
+    text: "I love you, River!"
   },
   {
     id: "a48",
@@ -253,7 +255,7 @@ export const news = [
   },
   {
     id: "a56",
-    text: `"I'm good at using github." -Hevipelle`
+    text: `"I'm good at using github." -Hevipelle        "I'm awful at using github" -hydrazine`
   },
   {
     id: "a57",
@@ -355,7 +357,7 @@ export const news = [
   },
   {
     id: "a79",
-    text: "Breaking News: Error Error Error"
+    text: "PLEASE stop breaking the news, I'm running out of superglue!!"
   },
   {
     id: "a80",
@@ -371,7 +373,7 @@ export const news = [
   },
   {
     id: "a83",
-    text: "What's the matter with anti matter?"
+    text: "\"no offense, but are there even black people in minnesota?\" -Deezy"
   },
   {
     id: "a84",
@@ -483,7 +485,7 @@ export const news = [
   },
   {
     id: "a97",
-    text: "Nobody once told me the anti-world wasn't gonna roll me."
+    text: "\"the feminine urge to be a girl in a boy\" -hydrazine"
   },
   {
     id: "a98",
@@ -904,13 +906,12 @@ export const news = [
   },
   {
     id: "a171",
-    text: "<a href='https://www.youtube.com/watch?v=P945A5Tndp8' target='_blank'>This link is not a rick roll.</a>"
+    text: "<a href='https://www.youtube.com/watch?v=jhl5afLEKdo' target='_blank'>This link is not a rick roll.</a>"
   },
   {
     id: "a172",
     text:
-      `If you notice any issues with a news ticker message, please report them on the
-      <a href='https://discord.gg/ST9NaXa' target='_blank'>Discord</a> by clicking that link right there.`
+      `If you notice any issues with a news ticker message, please DM @hydrazine on Discord!`
   },
   {
     id: "a173",
@@ -1075,7 +1076,7 @@ export const news = [
   },
   {
     id: "a196",
-    text: "Disco Time! (click me!)",
+    text: "Gay! (click me!)",
     onClick() {
       let random = Math.random();
       // Golden ratio
@@ -1425,7 +1426,7 @@ export const news = [
           picture of him in the background is just rather humorous.`,
         S6:
           `that beautifully animated background just entrances you, and then the subtle tone and
-          colors pull you in and fully immerse you into the game.`,
+          colors pull you in and fully immerse you into the game. Also, you're using the best theme in the game!`,
         S7: "I always had fond memories of that background from my childhood.",
         S8: "it makes it a lot easier to sneak in a little gameplay at the office.",
         S9: "lol you can't even ever see this in the game",
@@ -1632,8 +1633,7 @@ export const news = [
   {
     id: "a270",
     text:
-      `The Galactic Association of News Writers has filed a class action lawsuit against the developers of the
-      small web game "Antimatter Dimensions" for mass plagiarism.`
+      `| |I || |_`
   },
   {
     id: "a271",
@@ -1645,7 +1645,8 @@ export const news = [
   },
   {
     id: "a272",
-    text: "What's hevier, a pound of bricks, or a pound of antimatter?"
+    text: "Tonight on Top Gear: I locate the 9th Dimension, James burns his home down over IC5, and Richard causes the collapse of the known universe.",
+    get unlocked() { return PlayerProgress.infinityUnlocked(); }
   },
   {
     id: "a273",
@@ -1693,7 +1694,7 @@ export const news = [
   },
   {
     id: "a280",
-    text: "I hate antimatter. It's rough, coarse, irritating, and it gets everywhere."
+    text: "\"ooeeoo\" -That one Fortnite character"
   },
   {
     id: "a281",

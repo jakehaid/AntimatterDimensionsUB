@@ -18,6 +18,7 @@ export const normalAchievements = [
     name: "Half life 3 CONFIRMED",
     description: "Buy a 3rd Antimatter Dimension.",
     checkEvent: GAME_EVENT.ACHIEVEMENT_EVENT_OTHER,
+    get reward() { return `I'll buy you a copy of HL3 once it releases on Steam! (no promises)`; },
   },
   {
     id: 14,
