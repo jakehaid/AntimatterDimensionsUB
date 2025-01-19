@@ -2087,7 +2087,7 @@ export const news = [
   },
   {
     id: "a331",
-    text: "I have no nose, and I must sneeze!"
+    text: "In the stripped club, straight up jorkin it... and by it, haha, well, lets justr say... my peanits!"
   },
   {
     id: "a332",
@@ -2460,10 +2460,7 @@ export const news = [
   {
     id: "a371",
     text:
-      `Pop quiz: there are 3 doors, you pick a door at random, and get to keep what's behind the door. The doors
-      have 2 golden goats, 2 silver goats, and a gold and a silver goat. After you pick a door, the door with the
-      lowest $ worth of goats will be opened and shown to you. After this, you are given the choice to swap.
-      What is the probability that you will swap doors?`
+      `BLÅHAJ is love, BLÅHAJ is life.`
   },
   {
     id: "a372",
@@ -6185,7 +6182,7 @@ export const news = [
   },
   {
     id: "ai716",
-    text: "Greetings, welcome to the latest edition of Antimatter Dimensions!"
+    text: "BLÅHAJ is love, BLÅHAJ is life."
   },
   {
     id: "ai717",
