@@ -1138,8 +1138,7 @@ export const news = [
   {
     id: "a206",
     text:
-      `I visited the discord server of the game to have some friendly chat. At that point I got trolled by
-      the user called Cubic Frog.`
+      `"theres cookie clicker lore obviously weird gay person cookie clicker has lore" - Charlotte`
   },
   {
     id: "a207",
