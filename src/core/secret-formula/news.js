@@ -3277,6 +3277,11 @@ export const news = [
     get unlocked() { return PlayerProgress.realityUnlocked(); }
   },
   {
+    id: "189",
+    text:
+      '2450 Windchill on top (I am writing this code at robotics practice because i have ZERO idea how to do photonvision stuff lmao)
+  },
+  {
     id: "r1",
     text: "This news message is 100x rarer than all the others.",
     get unlocked() { return Math.random() < 0.01; }
